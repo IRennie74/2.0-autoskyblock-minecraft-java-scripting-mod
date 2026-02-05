@@ -11,6 +11,7 @@ The new version improves on the original in almost every way:
 - Better structure and organization
 - More reliable automation
 - More modern programming practices
+
 One mistake I made in the original project was not writing a proper README with installation instructions or a clear explanation of how the system works. I’m fixing that now—without rewriting the entire codebase again just for documentation.
 
 ✨ Features
